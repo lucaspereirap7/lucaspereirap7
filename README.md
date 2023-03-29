@@ -14,5 +14,5 @@
   <img href="" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">  
   <img href="" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </div>
-
+![snake gif](https://github.com/lucaspereirap7/lucaspereirap7/blob/output/github-contribution-grid-snake.svg)
 
