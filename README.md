@@ -5,6 +5,6 @@
 </p>
 <h3>in constant evolution</h3>
 <div style="display: flex; justify-content: space-between!important;">
-  -------------------------------------<img width="50" height="50" src="media/html.png">-------<img width="50" height="50" src="media/css-3.png">--------<img width="50" height="50" src="media/js.png">--------<img width="50" height="50" src="media/php.png">-------<img width="50" height="50" src="media/angular-icon.png">-------<img width="50" height="50" src="media/figma.png">-------------------------------------
+  &nbsp;&nbsp;<img width="50" height="50" src="media/html.png">&nbsp;&nbsp;<img width="50" height="50" src="media/css-3.png">&nbsp;&nbsp;<img width="50" height="50" src="media/js.png">&nbsp;&nbsp;<img width="50" height="50" src="media/php.png">&nbsp;&nbsp;<img width="50" height="50" src="media/angular-icon.png">&nbsp;&nbsp;<img width="50" height="50" src="media/figma.png">
 </div>
 
