@@ -5,6 +5,6 @@
 </p>
 <h3>in constant evolution</h3>
 <div display="flex" align-items="center">
-<img width="50" height="50" src="media/html.png">
+<img width="50" height="50" src="media/html.png"><img width="50" height="50" src="media/css-3.png"><img width="50" height="50" src="media/js.png"><img width="50" height="50" src="media/php.png"><img width="50" height="50" src="media/angular-icon.png"><img width="50" height="50" src="media/figma.png">
 </div>
 
