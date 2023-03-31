@@ -19,7 +19,9 @@
 </div>
 <h3>my social networks</h3>
 <div align="center" display="flex">
-  <img width="45" height="45" href="https://wa.me/5535997291721" src="media/whatsapp.png">
+  <a href="https://wa.me/5535997291721">
+  <img width="45" height="45" src="media/whatsapp.png">
+  </a>
   &nbsp;&nbsp;
   <img width="45" height="45" href="https://www.linkedin.com/in/lucasopereira/" src="media/linkedin.png">
   &nbsp;&nbsp;
