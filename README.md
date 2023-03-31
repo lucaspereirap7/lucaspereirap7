@@ -31,7 +31,7 @@
   <img width="45" height="45" src="media/outlook.png">
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/lucasopereira_/" target="_blank">
+  <a href="https://www.instagram.com/lucasopereira_/" target="_blank" rel="noopener">
   <img width="45" height="45" src="media/instagram.png">
   </a>
 </div>                      
