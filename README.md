@@ -18,5 +18,12 @@
   <img href="" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white">
 </div>
 <h3>my social networks</h3>
-                                                                                                                     
-
+<div align="center" display="flex">
+  <img width="45" height="45" href="https://wa.me/5535997291721" src="media/whatsapp.png">
+  &nbsp;&nbsp;
+  <img width="45" height="45" href="https://www.linkedin.com/in/lucasopereira/" src="media/linkedin.png">
+  &nbsp;&nbsp;
+  <img width="45" height="45" href="mailto:luquinhapereira10@hotmail.com" src="media/outlook.png">
+  &nbsp;&nbsp;
+  <img width="45" height="45" href="https://www.instagram.com/lucasopereira_/" src="media/instagram.png">
+</div>                      
