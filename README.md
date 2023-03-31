@@ -23,9 +23,15 @@
   <img width="45" height="45" src="media/whatsapp.png">
   </a>
   &nbsp;&nbsp;
-  <img width="45" height="45" href="https://www.linkedin.com/in/lucasopereira/" src="media/linkedin.png">
+  <a href="https://www.linkedin.com/in/lucasopereira/">
+  <img width="45" height="45" src="media/linkedin.png">
+  </a>
   &nbsp;&nbsp;
-  <img width="45" height="45" href="mailto:luquinhapereira10@hotmail.com" src="media/outlook.png">
+  <a href="mailto:luquinhapereira10@hotmail.com">
+  <img width="45" height="45" src="media/outlook.png">
+  </a>
   &nbsp;&nbsp;
-  <img width="45" height="45" href="https://www.instagram.com/lucasopereira_/" src="media/instagram.png">
+  <a href="https://www.instagram.com/lucasopereira_/" target="_Blank">
+  <img width="45" height="45" src="media/instagram.png">
+  </a>
 </div>                      
