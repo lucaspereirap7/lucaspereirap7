@@ -19,19 +19,19 @@
 </div>
 <h3>my social networks</h3>
 <div align="center" display="flex">
-  <a href="https://wa.me/5535997291721">
+  <a href="https://wa.me/5535997291721"  target="_blank">
   <img width="45" height="45" src="media/whatsapp.png">
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/lucasopereira/">
+  <a href="https://www.linkedin.com/in/lucasopereira/" target="_blank">
   <img width="45" height="45" src="media/linkedin.png">
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:luquinhapereira10@hotmail.com">
+  <a href="mailto:luquinhapereira10@hotmail.com" target="_blank">
   <img width="45" height="45" src="media/outlook.png">
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/lucasopereira_/" target="_Blank">
+  <a href="https://www.instagram.com/lucasopereira_/" target="_blank">
   <img width="45" height="45" src="media/instagram.png">
   </a>
 </div>                      
