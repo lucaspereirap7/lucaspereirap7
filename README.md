@@ -1,5 +1,5 @@
 <h1>Hi, I'm Lucas!</h1>
-<h3>Remembering that everything here is in development, or trying to be 😉</h3>
+<h3>remembering that everything here is in development, or trying to be 😉</h3>
 <p align="center">
   <img width="6000" height="340" src="media/grootnovo.gif">
 </p>
