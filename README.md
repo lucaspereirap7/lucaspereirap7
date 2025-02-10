@@ -14,6 +14,8 @@
   <img href="" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   <img href="" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
   <img href="" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  <img href="" src="https://shields.io/badge/react-black?logo=react&style=for-the-badge">
+  <img href="" src="https://img.shields.io/badge/ReactNative-222222?style=for-the-badge&logo=React&logoColor=">
   <img href="" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   <img href="" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white">
 </div>
